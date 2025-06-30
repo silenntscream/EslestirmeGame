@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatih\\source\\repos\\EslestirmeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54FB7C28-CA66-493B-BE17-D286CCA5EB8E}|EslestirmeGame\\EslestirmeGame.csproj|c:\\users\\fatih\\source\\repos\\eslestirmegame\\eslestirmegame\\oyunyoneticisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FB7C28-CA66-493B-BE17-D286CCA5EB8E}|EslestirmeGame\\EslestirmeGame.csproj|solutionrelative:eslestirmegame\\oyunyoneticisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FB7C28-CA66-493B-BE17-D286CCA5EB8E}|EslestirmeGame\\EslestirmeGame.csproj|C:\\Users\\Fatih\\source\\repos\\EslestirmeGame\\eslestirmegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FB7C28-CA66-493B-BE17-D286CCA5EB8E}|EslestirmeGame\\EslestirmeGame.csproj|solutionrelative:eslestirmegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\source\\repos\\EslestirmeGame\\EslestirmeGame\\Form1.cs",
+              "RelativeDocumentMoniker": "EslestirmeGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\Fatih\\source\\repos\\EslestirmeGame\\EslestirmeGame\\Form1.cs",
+              "RelativeToolTip": "EslestirmeGame\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:22:20.685Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OyunYoneticisi.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\source\\repos\\EslestirmeGame\\EslestirmeGame\\OyunYoneticisi.cs",
+              "RelativeDocumentMoniker": "EslestirmeGame\\OyunYoneticisi.cs",
+              "ToolTip": "C:\\Users\\Fatih\\source\\repos\\EslestirmeGame\\EslestirmeGame\\OyunYoneticisi.cs",
+              "RelativeToolTip": "EslestirmeGame\\OyunYoneticisi.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAEwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:31:05.393Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

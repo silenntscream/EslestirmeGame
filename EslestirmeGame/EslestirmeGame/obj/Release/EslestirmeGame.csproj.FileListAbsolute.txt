@@ -1,0 +1,10 @@
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\obj\Release\EslestirmeGame.csproj.AssemblyReference.cache
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\bin\Release\EslestirmeGame.exe.config
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\bin\Release\EslestirmeGame.exe
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\bin\Release\EslestirmeGame.pdb
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\obj\Release\EslestirmeGame.Form1.resources
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\obj\Release\EslestirmeGame.Properties.Resources.resources
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\obj\Release\EslestirmeGame.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\obj\Release\EslestirmeGame.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\obj\Release\EslestirmeGame.exe
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\obj\Release\EslestirmeGame.pdb

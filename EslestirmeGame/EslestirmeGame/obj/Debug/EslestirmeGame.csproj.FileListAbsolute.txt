@@ -1,0 +1,20 @@
+C:\Users\pc\Desktop\C# Dersleri\EslestirmeGame\EslestirmeGame\bin\Debug\EslestirmeGame.exe.config
+C:\Users\pc\Desktop\C# Dersleri\EslestirmeGame\EslestirmeGame\bin\Debug\EslestirmeGame.exe
+C:\Users\pc\Desktop\C# Dersleri\EslestirmeGame\EslestirmeGame\bin\Debug\EslestirmeGame.pdb
+C:\Users\pc\Desktop\C# Dersleri\EslestirmeGame\EslestirmeGame\obj\Debug\EslestirmeGame.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C# Dersleri\EslestirmeGame\EslestirmeGame\obj\Debug\EslestirmeGame.Form1.resources
+C:\Users\pc\Desktop\C# Dersleri\EslestirmeGame\EslestirmeGame\obj\Debug\EslestirmeGame.Properties.Resources.resources
+C:\Users\pc\Desktop\C# Dersleri\EslestirmeGame\EslestirmeGame\obj\Debug\EslestirmeGame.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\C# Dersleri\EslestirmeGame\EslestirmeGame\obj\Debug\EslestirmeGame.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C# Dersleri\EslestirmeGame\EslestirmeGame\obj\Debug\EslestirmeGame.exe
+C:\Users\pc\Desktop\C# Dersleri\EslestirmeGame\EslestirmeGame\obj\Debug\EslestirmeGame.pdb
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\bin\Debug\EslestirmeGame.exe.config
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\bin\Debug\EslestirmeGame.exe
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\bin\Debug\EslestirmeGame.pdb
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\obj\Debug\EslestirmeGame.csproj.AssemblyReference.cache
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\obj\Debug\EslestirmeGame.Form1.resources
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\obj\Debug\EslestirmeGame.Properties.Resources.resources
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\obj\Debug\EslestirmeGame.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\obj\Debug\EslestirmeGame.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\obj\Debug\EslestirmeGame.exe
+C:\Users\Fatih\source\repos\EslestirmeGame\EslestirmeGame\obj\Debug\EslestirmeGame.pdb
